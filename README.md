@@ -29,8 +29,8 @@ Ce projet ce veut une application des concepts de télétravail de groupe abrit�
 
 ## Membres du groupe:
 
-|:---:|:---:|
 | Nom | Prénom |
+|:---:|:---:|
 | BELAZREG | Doha |
 | BENMANSOUR | Sarra |
 | DAHMANI | Chakib |
