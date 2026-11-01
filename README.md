@@ -1,6 +1,6 @@
 <div align="center">
-# Mini Projet - Logiciels libres et Open source
-### 4ème année ingénieurs en agronomie
+#Mini Projet - Logiciels libres et Open source
+###4ème année ingénieurs en agronomie
 **Promo 23/28 | Projet de groupe**
 <br>
 
