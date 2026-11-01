@@ -31,7 +31,7 @@ Ce projet ce veut une application des concepts de télétravail de groupe abrit�
 
 | Nom | Prénom |
 |:---:|:---:|
-| BELAZREG | Doha |
+| BENLAZREG | Doha |
 | BENMANSOUR | Sarra |
 | DAHMANI | Chakib |
 | CHOUAKRI | Ibtihel Chiraz |
