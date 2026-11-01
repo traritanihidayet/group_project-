@@ -38,3 +38,18 @@ Ce projet ce veut une application des concepts de télétravail de groupe abrit�
 | MEGHRAOUI | Amina |
 | OUADFEL | Kawther |
 | TERARI TANI | Hidayet |
+
+---
+
+## Objectifs
+-
+-
+-
+-
+
+## Source et outils
+
+```text
+Language      : Python
+Source        : https://www.kaggle.com/datasets/atharvasoundankar/smart-farming-sensor-data-for-yield-prediction?resource=download
+Platform      : Git . GitHub
