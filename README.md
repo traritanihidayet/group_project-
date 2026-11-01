@@ -37,7 +37,7 @@ Ce projet ce veut une application des concepts de télétravail de groupe abrit�
 | CHOUAKRI | Ibtihel Chiraz |
 | MEGHRAOUI | Amina |
 | OUADFEL | Kawther |
-| TERARI TANI | Hidayet |
+| TRARI TANI | Hidayet |
 
 ---
 
