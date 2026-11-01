@@ -23,7 +23,7 @@
 Ce projet ce veut une application des concepts de télétravail de groupe abrité par la platform GitHub!
 
 *Résumé du projet*
-?????
+Control et analyse tabulaire
 
 ---
 
@@ -42,10 +42,10 @@ Ce projet ce veut une application des concepts de télétravail de groupe abrit�
 ---
 
 ## Objectifs
--
--
--
--
+- importation csv
+- nettoyage de données
+- statistiques génèrales et quantitatives
+- corrèlations et graphes
 
 ## Source et outils
 
