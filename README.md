@@ -8,11 +8,11 @@
 
 <br>
 
-[![Département d'agronomie](https://img.shields.io/badge/Open%20Source-🌱-brightgreen?style=for-the-badge)](https://snv.univ-tlemcen.dz/fr/pages/164/d-partement-d-agronomie)
-[![Promo Tournesol](https://img.shields.io/badge/Agronomie-🌻-2ea44f?style=for-the-badge)](#)
+[![Département d'agronomie](https://img.shields.io/badge/Departement%20D'Agronomie-🌱-brightgreen?style=for-the-badge)](https://snv.univ-tlemcen.dz/fr/pages/164/d-partement-d-agronomie)
+[![Promo Tournesol](https://img.shields.io/badge/Promo%20Tournesol-🌻-2ea44f?style=for-the-badge)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](#)
 
-(/div)
+</div>
 
 ---
 
@@ -29,6 +29,7 @@ Ce projet ce veut une application des concepts de télétravail de groupe abrit�
 
 ## Membres du groupe:
 
+|:---:|:---:|
 | Nom | Prénom |
 | BELAZREG | Doha |
 | BENMANSOUR | Sarra |
