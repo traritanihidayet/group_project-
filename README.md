@@ -4,7 +4,7 @@
 
 ### 4ème année ingénieurs en agronomie
 
-** Promo 23/28 | Projet de groupe**
+** Promo 23/28 | Projet de groupe **
 
 <br>
 
